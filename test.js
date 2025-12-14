@@ -41,3 +41,12 @@ while (myAge < 10) {
 
 
 document.write("you are over 10");
+
+
+var myAge = 10;
+for (let myAge = 1; myAge <= 10; myAge++) {
+
+  console.log(myAge);
+
+  document.write("How old are u?")
+}
